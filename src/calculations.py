@@ -1,9 +1,6 @@
 # System Modules
 import math
 
-# Installed Modules
-# - None
-
 
 def area_of_circle(radius):
     """Calculate the area of a circle given its radius."""
